@@ -38,7 +38,7 @@ Supabase (dados operacionais)
 - Arquitetura Medallion com separação clara entre dado bruto, limpo e agregado
 - Colunas calculadas na silver (ex: `receita_total = quantidade × preço unitário`)
 - Dimensões temporais extraídas para facilitar análises (ano, mês, dia, hora, dia da semana)
-- Métricas de negócio agregadas na gold prontas para dashboard
+- Métricas de negócio agregadas na gold prontas para dashboard.
 
 
 ## Tecnologias
