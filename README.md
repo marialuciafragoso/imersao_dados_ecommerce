@@ -1,4 +1,4 @@
-# Imers-o-Jornada-de-Dados-
+# Imersao_dados_ecommerce
 Imersão Jornada de Dados
 Pipeline de dados construído com Python para leitura e processamento de arquivos Parquet de um e-commerce, integrando 4 tabelas de dados ao banco de dados Supabase.
 
