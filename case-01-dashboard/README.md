@@ -1,5 +1,7 @@
 # Dashboard E-commerce Analytics
 
+🔗 **[Acesse o dashboard](https://ecommerce-dashboard-ml.streamlit.app/)**
+
 Projeto desenvolvido como parte da **Jornada de Dados**, no último dia da imersão.
 
 A ideia foi simples: depois de 3 dias construindo um pipeline completo com SQL, Python e dbt, os dados estavam prontos no banco — mas nenhum diretor acessa o banco de dados. Então criei um dashboard pra resolver isso.
